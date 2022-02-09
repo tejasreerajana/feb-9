@@ -1,0 +1,6 @@
+p=int(input("enter first number"))
+q=int(input(" enter second number"))
+if(p>q):
+  print("p is bigger")
+else:
+  print("q is bigger")
